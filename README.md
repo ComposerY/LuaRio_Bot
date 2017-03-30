@@ -5,9 +5,7 @@ This bot will also work for SMB2 (J) aka SMB Lost Levels. (Tested).
 Note : This is still in beta in its earlier stages it can be improved more. So it might get stuck in some places where Enemy is inside walls and bot cannot clear until all enemies are dead. and some Piranha plants are still present in enemy slot so bot thinks it still alive and cannot move until its removed from that slot.
 
 Here is the Link to the Video of LuaRio Bot .
-https://www.youtube.com/edit?o=U&video_id=YpILF7BxYro
-
-FAQ :
+https://www.youtube.com/watch?v=YpILF7BxYro
 
 Q : How to Run this Bot ?
 A : Open FCEUX Emulator and open Super Mario Bros ROM file.
