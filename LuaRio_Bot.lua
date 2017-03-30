@@ -48,9 +48,9 @@ FireMario = false
 SuperMario = false
 SmallMario = false
 
--------------------------
---Bool to Chek Direction.
--------------------------
+--------------------------
+--Bool to Check Direction.
+--------------------------
 continue_forward = true
 
 -------------------
